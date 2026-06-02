@@ -1,0 +1,213 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/rajwap-downloader",
+  "serply_link": "https://serp.ly/rajwap-downloader",
+  "app_name": "Rajwap Video Downloader",
+  "short_description": "Download & Save Rajwap Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Downloader for RajWap is a focused browser extension that lets you save videos from RajWap video pages directly to your device. It works on Chrome, Edge, Brave, and Firefox, giving you a straightforward way to keep your favorite content available offline.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/rajwap-downloader-fullscreen-01-043a2c31cb.webp",
+    "https://apps.serp.co/media/optimized-products/rajwap-downloader-fullscreen-02-6e9eef3422.webp",
+    "https://apps.serp.co/media/optimized-products/rajwap-downloader-fullscreen-03-e428f03f5f.webp",
+    "https://apps.serp.co/media/optimized-products/rajwap-downloader-fullscreen-04-24044784ec.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "What browsers does Rajwap Downloader support?",
+      "answer": "It works on Chrome, Edge, Brave, and Firefox. Check the latest release for browser-specific builds."
+    },
+    {
+      "question": "Do I need an account to use the extension?",
+      "answer": "No account is required to start. The free trial lets you test the workflow without signing up."
+    },
+    {
+      "question": "Is there a limit on how many videos I can download?",
+      "answer": "The free trial includes 3 downloads. A paid license removes this limit."
+    },
+    {
+      "question": "What video formats does the extension save?",
+      "answer": "Files are saved as MP4, which is compatible with most media players and devices."
+    },
+    {
+      "question": "Can I use this extension on other websites?",
+      "answer": "No, Rajwap Downloader is specifically built for rajwap.biz and its subdomains."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Archiving content you have permission to keep"
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Focused rajwap.biz and RajWap subdomain scope",
+    "Works on Chrome, Edge, Brave, and Firefox browsers",
+    "Simple popup interface for video detection and download",
+    "Saves files in widely compatible MP4 format",
+    "Includes 3 free downloads to test the workflow",
+    "Targeted rajwap.biz and RajWap subdomain support",
+    "Works on Chrome, Edge, Brave, and Firefox",
+    "Clean popup interface for detecting and downloading media",
+    "Detects video content from supported Rajwap video pages",
+    "Saves files in standard MP4 format",
+    "No account or registration required to start",
+    "Lightweight extension with focused functionality",
+    "Regular updates through GitHub Releases"
+  ],
+  "content": {
+    "why": [
+      "Rajwap hosts a wide collection of video content, but the platform does not provide a built-in way to save videos for offline viewing. If your connection drops or you want to watch later without streaming, you are left without options.",
+      "Rajwap Downloader fills that gap by adding a simple download button to supported Rajwap video pages. Instead of relying on screen recording tools or third-party sites, you get a clean browser extension that detects the video and offers it as a downloadable MP4 file. It is built for one thing and one thing only: saving Rajwap videos when you need them."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open Rajwap and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install Rajwap Downloader from the latest GitHub release for your browser.",
+      "Navigate to a Rajwap video page, for example a /video/{id}/{slug}.html URL.",
+      "Allow the page to load fully and start video playback.",
+      "Click the extension icon in your browser toolbar to open the popup.",
+      "The popup will display detected video sources from the page.",
+      "Select the quality or format option you prefer.",
+      "Click the download button to begin the export.",
+      "Save the resulting MP4 file to your preferred local folder."
+    ],
+    "supported_formats": [
+      "Input: Video content from supported Rajwap video detail pages",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Rajwap users who want to save videos for offline viewing",
+      "People with unreliable internet connections who prefer local playback",
+      "Users who want to build a personal video library from Rajwap content",
+      "Anyone looking for a simple, single-site downloader without extra features"
+    ],
+    "use_cases": [
+      "Saving a video to watch later without streaming",
+      "Archiving content you have permission to keep",
+      "Watching videos on devices with limited connectivity",
+      "Building a local collection of Rajwap content",
+      "Avoiding repeated data usage for frequently watched videos"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any video on the page. Make sure you are on a supported Rajwap video page and that the video player has started loading. Try refreshing the page and starting playback again.",
+      "The download button is not appearing. Open the extension popup by clicking the icon in your browser toolbar. If the popup shows no sources, the page may not be a supported video page.",
+      "The download fails or stops mid-way. Check your internet connection. Large video files may take time to download. Try again with a more stable connection.",
+      "The extension is not working on a specific Rajwap page. Not all Rajwap pages may be supported. The extension currently targets video detail pages with the standard /video/{id}/{slug}.html pattern.",
+      "I cannot find the extension after installing it. Look for the extension icon in your browser toolbar. You may need to pin it from the extensions menu."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported Rajwap page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "Rajwap Downloader is a draft extension profile with verified handoff data; extraction behavior should be tested on live pages",
+      "This extension is not affiliated with or endorsed by Rajwap"
+    ],
+    "about": [
+      "Rajwap is a video hosting platform that offers a wide variety of content across multiple categories. Rajwap Downloader helps users save videos from the site for offline viewing, giving more flexibility in how they access and enjoy Rajwap content."
+    ]
+  },
+  "serpx_link": "https://serpx.link/rajwap-downloader",
+  "github_topics": [
+    "rajwap-download",
+    "rajwap-downloader",
+    "rajwap-video-downloader",
+    "rajwap-video-downloader-online",
+    "rajwap-video-downloader-mac",
+    "rajwap-video-downloader-window",
+    "rajwap-video-downloader-free",
+    "rajwap-video-downloader-extension",
+    "rajwap-video-downloader-app",
+    "rajwap-video-downloader-chrome",
+    "rajwap-video-downloader-from-url",
+    "how-to-download-rajwap-videos",
+    "how-to-download-rajwap-videos-mac",
+    "how-to-download-rajwap-videos-windows",
+    "how-to-download-rajwap-videos-online",
+    "how-to-download-rajwap-videos-free",
+    "how-to-download-from-rajwap",
+    "how-to-download-videos-from-rajwap",
+    "download-rajwap-videos",
+    "rajwap-video-tutorial",
+    "save-rajwap-videos",
+    "rajwap-video-content-saver",
+    "how-to-download-rajwap-videos-for-free"
+  ],
+  "hashtags": [
+    "#RajwapDownload",
+    "#RajwapDownloader",
+    "#RajwapVideoDownloader",
+    "#RajwapVideoDownloaderOnline",
+    "#RajwapVideoDownloaderMac",
+    "#RajwapVideoDownloaderWindow",
+    "#RajwapVideoDownloaderFree",
+    "#RajwapVideoDownloaderExtension",
+    "#RajwapVideoDownloaderApp",
+    "#RajwapVideoDownloaderChrome",
+    "#RajwapVideoDownloaderFromURL",
+    "#HowToDownloadRajwapVideos",
+    "#HowToDownloadRajwapVideosMac",
+    "#HowToDownloadRajwapVideosWindows",
+    "#HowToDownloadRajwapVideosOnline",
+    "#HowToDownloadRajwapVideosFree",
+    "#HowToDownloadFromRajwap",
+    "#HowToDownloadVideosFromRajwap",
+    "#DownloadRajwapVideos",
+    "#RajwapVideoTutorial",
+    "#SaveRajwapVideos",
+    "#RajwapVideoContentSaver",
+    "#HowToDownloadRajwapVideosForFree"
+  ],
+  "youtube_tags": [
+    "Rajwap Download",
+    "Rajwap Downloader",
+    "Rajwap Video Downloader",
+    "Rajwap Video Downloader Online",
+    "Rajwap Video Downloader Mac",
+    "Rajwap Video Downloader Window",
+    "Rajwap Video Downloader Free",
+    "Rajwap Video Downloader Extension",
+    "Rajwap Video Downloader App",
+    "Rajwap Video Downloader Chrome",
+    "Rajwap Video Downloader From URL",
+    "How To Download Rajwap Videos",
+    "How To Download Rajwap Videos Mac",
+    "How To Download Rajwap Videos Windows",
+    "How To Download Rajwap Videos Online",
+    "How To Download Rajwap Videos Free",
+    "How To Download From Rajwap",
+    "How To Download Videos From Rajwap",
+    "Download Rajwap Videos",
+    "Rajwap Video Tutorial",
+    "Save Rajwap Videos",
+    "Rajwap Video Content Saver",
+    "How To Download Rajwap Videos For Free"
+  ]
+}
